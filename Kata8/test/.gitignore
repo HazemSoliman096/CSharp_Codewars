@@ -1,0 +1,5 @@
+test.csproj
+bin
+bin/*
+obj
+obj/*
