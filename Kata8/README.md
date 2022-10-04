@@ -24,3 +24,12 @@ Example(Input => Output):
 [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 
 ---------------------------------------------------------------------------------------------
+
+
+## You Can't Code Under Pressure #1
+
+Code as fast as you can! You need to double the integer and return it. 
+
+[You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4)
+
+---------------------------------------------------------------------------------------------

@@ -1,7 +1,7 @@
-namespace  test {
-  using NUnit.Framework;
+using NUnit.Framework;
+using kata;
 
-  using kata;
+namespace  test {
 
   [TestFixture]
   public class SolutionTest
