@@ -44,7 +44,7 @@ namespace kata
         public string Master;
         public Dog(string name, int age, string status, string master) : base(name, age, 4, "dog", status) 
         {
-            this.Master = master;
+            Master = master;
         }
 
         public string GreetMaster() {
