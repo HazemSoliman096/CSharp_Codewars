@@ -4,7 +4,7 @@ using kata;
 namespace test
 {
     [TestFixture]
-    public class Tests
+    public class Vectors_Tests
     {
         [Test]
         [TestCase(0, 2, 0, ExpectedResult = 2)]
